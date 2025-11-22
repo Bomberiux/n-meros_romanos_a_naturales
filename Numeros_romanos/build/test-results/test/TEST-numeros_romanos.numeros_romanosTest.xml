@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="numeros_romanos.numeros_romanosTest" tests="48" skipped="0" failures="0" errors="0" timestamp="2025-11-22T21:41:06.680Z" hostname="DESKTOP-INIMLKU" time="0.067">
+  <properties/>
+  <testcase name="convertirIVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.011"/>
+  <testcase name="pasar18ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirRomanosCaseInsensitive()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="validarRomanosInvalidos()" classname="numeros_romanos.numeros_romanosTest" time="0.003"/>
+  <testcase name="convertirXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="verificarRomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar5ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar13ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="verificarDecimalesRomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirNumerosComplejosRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="verificarTreintenaNumeroRomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar7ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar15ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirCDXLIVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar20ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirXIXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirIIIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar2ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar10ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirCMXCIXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="verificaVeintenaNumeroRomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar9ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar17ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirIIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirVIIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirMMMCCXXXIVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar4ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar12ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar19ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirXIVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirXCIXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar6ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar14ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirIXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="testIdempotencia()" classname="numeros_romanos.numeros_romanosTest" time="0.009"/>
+  <testcase name="convertirVIIIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="testIdempotenciaRomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirXLIVRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar1ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirLXXXVIIIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar8ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar16ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="convertirVIRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="convertirXXRomanoANatural()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <testcase name="pasar3ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.001"/>
+  <testcase name="pasar11ARomanos()" classname="numeros_romanos.numeros_romanosTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
